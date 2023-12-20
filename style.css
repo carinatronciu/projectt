@@ -2,7 +2,7 @@
       width: 200px;
       height: 200px;
       background-color: #3498db;
-      color: #fff;
+      color: purple;
       text-align: center;
       line-height: 200px;
       margin: 20px; /* Add margin */
@@ -48,7 +48,7 @@
     .hover-button {
       display: inline-block;
       padding: 10px 20px;
-      background-color: #2ecc71;
+      background-color: pink;
       color: #fff;
       text-decoration: none;
       border-radius: 5px;
@@ -57,5 +57,5 @@
 
     /* Hover effect */
     .hover-button:hover {
-      background-color: #27ae60;
+      background-color: pink;
     }
