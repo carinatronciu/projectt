@@ -2,7 +2,7 @@
       width: 200px;
       height: 200px;
       background-color: #3498db;
-      color: purple;
+      color:#A432C8 ;
       text-align: center;
       line-height: 200px;
       margin: 20px; /* Add margin */
@@ -34,8 +34,8 @@
     .animated-box {
       width: 200px;
       height: 200px;
-      background-color: #3498db;
-      color: #fff;
+      background-color: #FF33CE;
+      color: #D133FF;
       text-align: center;
       line-height: 200px;
       margin: 20px;
@@ -48,8 +48,8 @@
     .hover-button {
       display: inline-block;
       padding: 10px 20px;
-      background-color: pink;
-      color: #fff;
+      background-color: #EEB9E1 ;
+      color: ##FCE2F6;
       text-decoration: none;
       border-radius: 5px;
       transition: background-color 1s ease; /* Apply transition */
@@ -57,5 +57,5 @@
 
     /* Hover effect */
     .hover-button:hover {
-      background-color: pink;
+      background-color: #56C832 ;
     }
